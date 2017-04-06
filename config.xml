@@ -2,16 +2,16 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example2"
+id = "com.phonegap.example3"
 version = "1.0.0">
 
-<name> app2 Telefonia Celular en Mexico</name>
+<name> app3 Medio Ambiente</name>
 
 <description>
-Aplicacion que muestra informacion sobre la telefonia celular
+Contaminacion
 </description>
 
-<author href="https://build.phonegap.com" email="costenomartinezmariafernanda@gmail.com">
+<author href="https://build.phonegap.com" email="jorgemtz3000@gmail.com">
 Jorge Jesus Vazquez Martinez 4F
 </author>
 
